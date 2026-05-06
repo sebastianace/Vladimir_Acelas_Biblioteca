@@ -54,7 +54,8 @@ El modelo conceptual identifica las **entidades**, sus **atributos** y las **rel
 
 ### Diagrama E-R
 
-<img width="1052" height="1008" alt="diagrama conceptual" src="https://github.com/user-attachments/assets/bec19eec-3604-4d23-9f81-174180e07557" />
+<img width="1251" height="739" alt="Diagrama_Logico" src="https://github.com/user-attachments/assets/8cec5f4c-85fa-475a-9dbb-5452e8a5f17c" />
+
 
 ---
 
@@ -80,7 +81,9 @@ La conversión del modelo conceptual al lógico produce las siguientes tablas re
 
 ### Diagrama del modelo lógico (DrawSQL)
 
-<img width="1308" height="602" alt="Captura de pantalla 2026-05-06 082847" src="https://github.com/user-attachments/assets/623f8e6c-e876-4faf-b131-fec1a19f8a07" />
+<img width="1308" height="602" alt="Captura de pantalla 2026-05-06 082847" src="https://github.com/user-attachments/assets/3fa6d1b3-75a8-4a28-ba60-19cf2af6bb6b" />
+
+
 
 ---
 
